@@ -1,0 +1,104 @@
+2020-02-11T05:42:54.000Z - normal: Load ~/.CocosCreator/settings.json
+2020-02-11T05:42:54.053Z - normal: Initializing Asset Database
+2020-02-11T05:42:54.098Z - normal: checking language setting...
+2020-02-11T05:42:54.098Z - normal: Language: zh
+2020-02-11T05:42:54.623Z - success: preview server running at http://localhost:7456
+2020-02-11T05:42:54.630Z - success: protocol editor-framework registered
+2020-02-11T05:42:54.630Z - success: protocol app registered
+2020-02-11T05:42:54.630Z - success: protocol theme registered
+2020-02-11T05:42:54.630Z - success: protocol packages registered
+2020-02-11T05:42:54.630Z - success: protocol uuid registerred
+2020-02-11T05:42:54.630Z - success: protocol db registerred
+2020-02-11T05:42:54.630Z - success: protocol thumbnail registerred
+2020-02-11T05:42:54.631Z - success: protocol unpack registerred
+2020-02-11T05:42:54.631Z - success: protocol disable-commonjs registerred
+2020-02-11T05:42:54.870Z - normal: connected!
+2020-02-11T05:42:54.871Z - normal: Check project C:\Users\yaw\Desktop\firsttry\start_project
+2020-02-11T05:42:54.872Z - normal: Initializing project C:\Users\yaw\Desktop\firsttry\start_project
+2020-02-11T05:42:56.348Z - normal: Initializing Cocos2d
+2020-02-11T05:42:58.916Z - normal: Initializing engine extends
+2020-02-11T05:42:59.239Z - success: adapters loaded
+2020-02-11T05:42:59.259Z - success: asset-db-debugger loaded
+2020-02-11T05:42:59.596Z - success: fb-audience-network loaded
+2020-02-11T05:42:59.721Z - success: fb-live-stream loaded
+2020-02-11T05:42:59.737Z - success: google-play-instant loaded
+2020-02-11T05:42:59.856Z - success: huawei-runtime loaded
+2020-02-11T05:43:01.967Z - success: cpk-publish loaded
+2020-02-11T05:43:01.968Z - success: jsb-adapter loaded
+2020-02-11T05:43:02.048Z - success: oppo-runtime loaded
+2020-02-11T05:43:02.097Z - success: package-manager loaded
+2020-02-11T05:43:02.158Z - success: runtime-dev-tools loaded
+2020-02-11T05:43:02.176Z - success: sdkbox loaded
+2020-02-11T05:43:02.185Z - success: ui-kit-preview-extra loaded
+2020-02-11T05:43:02.226Z - success: ui-kit-preview loaded
+2020-02-11T05:43:02.283Z - success: vivo-runtime loaded
+2020-02-11T05:43:02.309Z - success: alipay-minigame loaded
+2020-02-11T05:43:02.511Z - success: assets loaded
+2020-02-11T05:43:02.525Z - success: baidugame-opendata loaded
+2020-02-11T05:43:02.529Z - success: baidugame loaded
+2020-02-11T05:43:02.535Z - success: builder loaded
+2020-02-11T05:43:04.518Z - success: cocos-services loaded
+2020-02-11T05:43:04.590Z - success: console loaded
+2020-02-11T05:43:04.604Z - success: fb-instant-games loaded
+2020-02-11T05:43:04.609Z - success: game-window loaded
+2020-02-11T05:43:04.614Z - success: google-instant-games loaded
+2020-02-11T05:43:04.621Z - success: hierarchy loaded
+2020-02-11T05:43:04.628Z - success: inspector loaded
+2020-02-11T05:43:04.634Z - success: keystore loaded
+2020-02-11T05:43:04.700Z - success: node-library loaded
+2020-02-11T05:43:04.702Z - success: open-recent-items loaded
+2020-02-11T05:43:04.735Z - success: package-asset loaded
+2020-02-11T05:43:04.740Z - success: preferences loaded
+2020-02-11T05:43:04.744Z - success: project-exporter loaded
+2020-02-11T05:43:04.749Z - success: project-importer loaded
+2020-02-11T05:43:04.754Z - success: project-settings loaded
+2020-02-11T05:43:04.760Z - success: scene loaded
+2020-02-11T05:43:04.799Z - success: simulator-debugger loaded
+2020-02-11T05:43:04.802Z - success: sprite-editor loaded
+2020-02-11T05:43:04.869Z - success: store loaded
+2020-02-11T05:43:04.904Z - success: timeline loaded
+2020-02-11T05:43:04.910Z - success: wechatgame-opendata loaded
+2020-02-11T05:43:04.947Z - success: wechatgame loaded
+2020-02-11T05:43:04.953Z - success: xiaomi-runtime loaded
+2020-02-11T05:43:08.379Z - normal: Loading packages
+2020-02-11T05:43:08.386Z - normal: Watching packages
+2020-02-11T05:43:08.864Z - info: Cocos Services load base data!
+2020-02-11T05:43:10.731Z - normal: Run Application
+2020-02-11T06:18:16.882Z - warn: Script attached to "red" in prefab "red.prefab" is missing or invalid. Detailed information:
+Node path: "red"
+Asset url: "db://assets/prefab/red.prefab"
+Script UUID: "386a5f5a-a89f-40c1-8b89-e828983bf562"
+Class ID: "386a59aqJ9AwYuJ6CiYO/Vi"
+
+2020-02-11T06:18:16.885Z - warn: Script attached to "yellow" in prefab "yellow.prefab" is missing or invalid. Detailed information:
+Node path: "yellow"
+Asset url: "db://assets/prefab/yellow.prefab"
+Script UUID: "386a5f5a-a89f-40c1-8b89-e828983bf562"
+Class ID: "386a59aqJ9AwYuJ6CiYO/Vi"
+
+2020-02-11T06:18:16.894Z - warn: Script attached to "pink" in prefab "pink.prefab" is missing or invalid. Detailed information:
+Node path: "pink"
+Asset url: "db://assets/prefab/pink.prefab"
+Script UUID: "386a5f5a-a89f-40c1-8b89-e828983bf562"
+Class ID: "386a59aqJ9AwYuJ6CiYO/Vi"
+
+2020-02-11T06:18:16.898Z - warn: Script attached to "green" in prefab "green.prefab" is missing or invalid. Detailed information:
+Node path: "green"
+Asset url: "db://assets/prefab/green.prefab"
+Script UUID: "386a5f5a-a89f-40c1-8b89-e828983bf562"
+Class ID: "386a59aqJ9AwYuJ6CiYO/Vi"
+
+2020-02-11T06:18:16.903Z - warn: Script attached to "blue" in prefab "blue.prefab" is missing or invalid. Detailed information:
+Node path: "blue"
+Asset url: "db://assets/prefab/blue.prefab"
+Script UUID: "386a5f5a-a89f-40c1-8b89-e828983bf562"
+Class ID: "386a59aqJ9AwYuJ6CiYO/Vi"
+
+2020-02-11T06:31:55.041Z - info: 只有预制节点 "blue" 及其子节点会被保存。
+2020-02-11T06:32:31.858Z - info: 只有预制节点 "green" 及其子节点会被保存。
+2020-02-11T06:32:44.640Z - info: 只有预制节点 "pink" 及其子节点会被保存。
+2020-02-11T06:32:55.600Z - info: 只有预制节点 "red" 及其子节点会被保存。
+2020-02-11T06:33:06.603Z - info: 只有预制节点 "yellow" 及其子节点会被保存。
+2020-02-11T06:44:57.907Z - info: 0f9f1677-2b1f-4ab2-a26e-79fb2247920a (0fnxZ3Kx9KsqJuefsiR5IK), db://assets/game2.fire
+2020-02-11T06:45:08.960Z - info: 22de7e2d-d9ad-457b-81f9-1319f2524369 (223n4t2a1Fe4H5ExnyUkNp), db://assets/game3.fire
+2020-02-11T09:35:12.936Z - info: shutdown preview server
